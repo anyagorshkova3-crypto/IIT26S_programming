@@ -13,3 +13,7 @@
 ### Week 3
 * [Test Assignment 5] https://github.com/anyagorshkova3-crypto/week3-test5
 * [Test Assignment 6] https://github.com/anyagorshkova3-crypto/week3-test6
+
+### Week 4
+* [Test Assignment 6] https://github.com/anyagorshkova3-crypto/week4-test6
+* [Test Assignment 7] https://github.com/anyagorshkova3-crypto/week4-test7
