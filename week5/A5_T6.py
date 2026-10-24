@@ -15,7 +15,7 @@ def main(count):
             elif choice == "3":
                 print("Cleared count!\n")
                 count = 0
-            else:
+            elif choice != "0" and choice != "1" and choice !="2" and choice != "3":
                 print("Unknown option!\n")
     else:
         print("Exiting program.")
