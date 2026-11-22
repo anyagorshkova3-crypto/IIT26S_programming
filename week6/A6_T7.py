@@ -68,4 +68,5 @@ def main():
     print("Looks like I've got now the plain version copy of the Emperor's message.")
     print("Time to leave...")
     print("Travel ending.")
-main()
+#main()
+print(read_file('player_progress.txt'))
